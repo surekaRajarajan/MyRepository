@@ -1,3 +1,4 @@
 <?php
 echo "Hello world\n";
-echo "This is a new featur\n";
+echo "This is a new feature\n";
+?>
